@@ -1,0 +1,21 @@
+{
+  "profiles": {
+    "base": [
+      { "name": "Google Chrome",   "id": "Google.Chrome" },
+      { "name": "7-Zip",           "id": "7zip.7zip" },
+      { "name": "Notepad++",       "id": "Notepad++.Notepad++" },
+      { "name": "Adobe Acrobat Reader", "id": "Adobe.Acrobat.Reader.64-bit" },
+      { "name": "AnyDesk",         "id": "AnyDesk.AnyDesk" }
+    ],
+    "multimedia": [
+      { "name": "VLC media player", "id": "VideoLAN.VLC" },
+      { "name": "OBS Studio",      "id": "OBSProject.OBSStudio" },
+      { "name": "K-Lite Codec Pack", "id": "CodecGuide.K-LiteCodecPack.Standard" }
+    ],
+    "lab3d": [
+      { "name": "UltiMaker Cura",  "id": "Ultimaker.Cura" },
+      { "name": "PrusaSlicer",     "id": "Prusa3D.PrusaSlicer" },
+      { "name": "Blender",         "id": "BlenderFoundation.Blender" }
+    ]
+  }
+}
